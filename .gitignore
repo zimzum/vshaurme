@@ -2,4 +2,4 @@
 /.vscode
 /.DS_Store
 *.sqlite3
-vshaurme/**/*.sqlite3
+vshaurme/db.sqlite3
